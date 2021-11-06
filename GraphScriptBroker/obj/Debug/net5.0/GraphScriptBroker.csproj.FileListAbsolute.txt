@@ -1,0 +1,12 @@
+C:\Users\carva\source\repos\GraphManager\GraphScriptBroker\bin\Debug\net5.0\GraphScriptBroker.deps.json
+C:\Users\carva\source\repos\GraphManager\GraphScriptBroker\bin\Debug\net5.0\GraphScriptBroker.dll
+C:\Users\carva\source\repos\GraphManager\GraphScriptBroker\bin\Debug\net5.0\ref\GraphScriptBroker.dll
+C:\Users\carva\source\repos\GraphManager\GraphScriptBroker\bin\Debug\net5.0\GraphScriptBroker.pdb
+C:\Users\carva\source\repos\GraphManager\GraphScriptBroker\obj\Debug\net5.0\GraphScriptBroker.csproj.AssemblyReference.cache
+C:\Users\carva\source\repos\GraphManager\GraphScriptBroker\obj\Debug\net5.0\GraphScriptBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carva\source\repos\GraphManager\GraphScriptBroker\obj\Debug\net5.0\GraphScriptBroker.AssemblyInfoInputs.cache
+C:\Users\carva\source\repos\GraphManager\GraphScriptBroker\obj\Debug\net5.0\GraphScriptBroker.AssemblyInfo.cs
+C:\Users\carva\source\repos\GraphManager\GraphScriptBroker\obj\Debug\net5.0\GraphScriptBroker.csproj.CoreCompileInputs.cache
+C:\Users\carva\source\repos\GraphManager\GraphScriptBroker\obj\Debug\net5.0\GraphScriptBroker.dll
+C:\Users\carva\source\repos\GraphManager\GraphScriptBroker\obj\Debug\net5.0\ref\GraphScriptBroker.dll
+C:\Users\carva\source\repos\GraphManager\GraphScriptBroker\obj\Debug\net5.0\GraphScriptBroker.pdb

@@ -1,0 +1,5 @@
+{
+    "name" : "example name",
+    "calibration_data" : "./calibration.csv",
+    "test_data" : "./test.csv"
+}
